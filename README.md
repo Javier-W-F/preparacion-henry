@@ -1,2 +1,1 @@
-# preparacion-henry
-este es un repositorio de pruebas del módulo 2 de preparación henry
+este proyecto es una prueva de como crear un repositorio y clonarlo desde github a mi pc local
